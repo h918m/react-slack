@@ -1,0 +1,7 @@
+{
+  "generator-react-webpack": {
+    "appName": "reactSlack",
+    "style": "sass",
+    "postcss": true
+  }
+}
